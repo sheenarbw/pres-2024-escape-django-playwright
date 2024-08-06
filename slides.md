@@ -172,8 +172,6 @@ what is it
 
 ---
 
-
-
 ---
 layout: image-right
 image: https://cover.sli.dev
